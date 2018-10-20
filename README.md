@@ -4,8 +4,7 @@
 ## General
 
 This is a not bad solution to get top2% place without post-processing.  
-Accodring to the forum, [binary empty vs non-empty classifier](https://www.kaggle.com/c/tgs-salt-identification-challenge/discussion/65933#latest-406444) by [Heng](https://www.kaggle.com/hengck23) and [+0.01 LB with snapshot ensembling and cyclic lr](https://www.kaggle.com/c/tgs-salt-identification-challenge/discussion/65347) by [Peter](https://www.kaggle.com/pestipeti) and so on,  
-There are many useful tricks.
+Accodring to the forum, [binary empty vs non-empty classifier](https://www.kaggle.com/c/tgs-salt-identification-challenge/discussion/65933#latest-406444) by [Heng](https://www.kaggle.com/hengck23) and [+0.01 LB with snapshot ensembling and cyclic lr](https://www.kaggle.com/c/tgs-salt-identification-challenge/discussion/65347) by [Peter](https://www.kaggle.com/pestipeti) and so on,There are many useful tricks.
 
 ## Other excellent Solutions
 [9th place by tugstugi](https://www.kaggle.com/c/tgs-salt-identification-challenge/discussion/69053#latest-406939)
