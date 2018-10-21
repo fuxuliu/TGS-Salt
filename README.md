@@ -29,7 +29,6 @@ SGDR with cycle learing rate.
 ## Other excellent Solutions
 [5th place by AlexenderLiao](https://www.kaggle.com/c/tgs-salt-identification-challenge/discussion/69051)<br>
 [9th place by tugstugi](https://www.kaggle.com/c/tgs-salt-identification-challenge/discussion/69053#latest-406939)<br>
-[5th place by Alecander Liao](https://www.kaggle.com/c/tgs-salt-identification-challenge/discussion/69051)<br>
 [11th place by alexisrozhkov](https://www.kaggle.com/c/tgs-salt-identification-challenge/discussion/69093)
 [22nd place by Vishunu](https://www.kaggle.com/c/tgs-salt-identification-challenge/discussion/69101#latest-407311)<br>
 [43th place by n01z3](https://www.kaggle.com/c/tgs-salt-identification-challenge/discussion/69039)<br>
