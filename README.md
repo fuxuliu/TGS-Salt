@@ -27,8 +27,13 @@ From the results of experiments, train with only [lovasz_loss and elu+1](https:/
 SGDR with cycle learing rate.
 
 ## Other excellent Solutions
+[1th place by b.e.s.](https://www.kaggle.com/c/tgs-salt-identification-challenge/discussion/69291#408213)<br>
+[4th place by SeuTao](https://www.kaggle.com/c/tgs-salt-identification-challenge/discussion/69178)<br>
 [5th place by AlexenderLiao](https://www.kaggle.com/c/tgs-salt-identification-challenge/discussion/69051)<br>
+[8th place by Igor Krashenyi](https://www.kaggle.com/c/tgs-salt-identification-challenge/discussion/69220)<br>
 [9th place by tugstugi](https://www.kaggle.com/c/tgs-salt-identification-challenge/discussion/69053#latest-406939)<br>
-[11th place by alexisrozhkov](https://www.kaggle.com/c/tgs-salt-identification-challenge/discussion/69093)
+[11th place by alexisrozhkov](https://www.kaggle.com/c/tgs-salt-identification-challenge/discussion/69093)<br>
 [22nd place by Vishunu](https://www.kaggle.com/c/tgs-salt-identification-challenge/discussion/69101#latest-407311)<br>
+[27th place by Roman Vlasov](https://www.kaggle.com/c/tgs-salt-identification-challenge/discussion/69292#latest-408214)<br>
+[32nd place by Oleg Yaroshevskyy](https://www.kaggle.com/c/tgs-salt-identification-challenge/discussion/69067)<br>
 [43th place by n01z3](https://www.kaggle.com/c/tgs-salt-identification-challenge/discussion/69039)<br>
