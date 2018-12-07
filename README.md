@@ -1,5 +1,5 @@
 # TGS-Salt
-53th place(top2%) solution for Kaggle TGS Salt Identification Challenge
+53rd place(top2%) solution for Kaggle TGS Salt Identification Challenge
 
 ## General
 
